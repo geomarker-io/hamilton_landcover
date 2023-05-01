@@ -5,6 +5,7 @@
 |name     |hamilton_landcover                                              |
 |version  |0.1.0                                                           |
 |title    |Hamilton County Landcover and Built Environment Characteristics |
+|description | Greenspace, imperviousness, treecanopy, and greenness (EVI) for all tracts in Hamilton County |
 |homepage |https://geomarker.io/hamilton_landcover                         |
 
 #### Schema

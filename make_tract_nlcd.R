@@ -64,6 +64,7 @@ tract_nlcd <- tract_nlcd |>
     name = "hamilton_landcover",
     title = "Hamilton County Landcover and Built Environment Characteristics",
     version = "0.1.0",
+    description = "Greenspace, imperviousness, treecanopy, and greenness (EVI) for all tracts in Hamilton County", 
     homepage = "https://geomarker.io/hamilton_landcover"
   )
 
